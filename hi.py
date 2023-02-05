@@ -4,7 +4,7 @@ import random
 print(input("Welcome to a puzzle, it is a simple game that requires you needing to find the exit!\n"
             "\nif you do not wish to make an account, simply enter '1' for both user and password\n"
             "Please enter anything to continue\n"))
-# note to show player
+
 print(input("\n\nBefore game start, remember, Don't trust the words\nPlease enter anything to continue\n\n"))
 
 lower = "abcdefghijklmnopqrstuvwxyz"
