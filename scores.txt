@@ -1,0 +1,6 @@
+SCORES:
+1,15
+hello,20
+hi,-1
+hohoho,14
+1,0
