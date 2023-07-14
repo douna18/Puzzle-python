@@ -1,5 +1,7 @@
 # Puzzle Maze
 This puzzle is made intentionally with many loops, I am testing to see how many loops I can fit in one application without a repetition
+
+
 I am working on a little project with riddles and a bunch of loops. 
 
 
